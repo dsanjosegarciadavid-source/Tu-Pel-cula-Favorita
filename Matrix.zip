@@ -1,0 +1,33 @@
+:root{ 
+    background-color: rgb(14, 41, 14);
+    color: rgb(156, 241, 213);
+}
+h1,h2,h3{ 
+    color: rgb(9, 196, 133);
+    font-family: 'Courier New', Courier, monospace;
+}
+header{ 
+    border-bottom: solid 2px;
+    border-color: rgb(29, 88, 69);
+}
+aside{ 
+    border: solid 2px;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: rgb(9, 95, 45);
+}
+footer{ 
+    border-top: solid 2px;
+    border-color: aquamarine;
+}
+a { 
+    color: aquamarine;
+}
+nav a {
+    text-decoration: none;
+     color: aquamarine;
+      font-family: 'Courier New', Courier, monospace;
+}
+textarea {
+    border-radius: 200px;
+}
